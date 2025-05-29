@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+"As an IT professional with 10+ years in the field, I handle a wide array of responsibilities including server installation and configuration, network administration, end-user support, and comprehensive cybersecurity measures. I'm also proficient in scripting and programming to automate tasks and solve complex IT challenges."
+
 <!--
 **MartinKukolos/MartinKukolos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
